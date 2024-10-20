@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Malex's documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Read the documentation here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://malex.readthedocs.io/en/latest/
